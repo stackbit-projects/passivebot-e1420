@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Web Automation Made EZ
+    title: Codeless Web Automation
     subtitle: 'Earn crypto, gift cards, and virtual currencies, passively.'
     actions:
       - label: Start earning
