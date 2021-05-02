@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Achieve your Goals!
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: 'Earn crypto, gift cards, and virtual currencies, passively.'
     actions:
       - label: Try for free
         url: /pricing
