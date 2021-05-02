@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 'Faucet Crypto : #1 World Faucet'
 sections:
   - type: hero_section
     title: Codeless Web Automation
