@@ -9,7 +9,6 @@
     "header": {
         "title": "Passivebot",
         "logo": "images/parallel-turtle.png",
-        "logo_alt": "YourGoal logo",
         "has_primary_nav": false,
         "has_secondary_nav": true,
         "secondary_nav_links": [
