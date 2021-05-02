@@ -73,7 +73,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
-      - title: Optimize Your Maximum Daily Earnings
+      - title: Optimize Your Maximum Online Daily Earnings
         content: >
           Community-driven input on get-paid-to websites ensures that with
           Passivebot you will be more productive and organized. Overcome
