@@ -38,7 +38,8 @@
                 "style": "primary"
             }
         ],
-        "has_anncmnt": false
+        "has_anncmnt": false,
+        "logo_alt": "YourGoal logo"
     },
     "footer": {
         "logo": "images/logo.svg",
