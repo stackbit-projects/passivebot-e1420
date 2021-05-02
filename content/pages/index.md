@@ -103,7 +103,7 @@ sections:
         image: images/SELF.JPG
         image_alt: Ursula Gurnmeister photo
         media_position: left
-        media_width: thirty-three
+        media_width: fourty
     feature_padding_vert: small
     background_color: none
   - type: grid_section
