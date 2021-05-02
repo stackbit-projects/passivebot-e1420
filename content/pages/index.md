@@ -9,7 +9,7 @@ sections:
         url: /pricing
         style: primary
     image: images/friendly-strawberry.png
-    image_alt: Hero section placeholder image
+    image_alt: aP placeholder image
     media_position: bottom
     align: center
     padding_top: none
