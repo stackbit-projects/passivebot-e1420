@@ -24,7 +24,7 @@ sections:
     title: Featured On
     align: center
     grid_items:
-      - image: images/xbc.svg
+      - image: images/rainy-spider.svg
         image_alt: Logo 1
         image_align: center
       - image: images/ETH.svg
