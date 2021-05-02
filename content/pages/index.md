@@ -16,7 +16,7 @@ sections:
     padding_bottom: small
     background_color: secondary
     background_image: images/nervous-celery.svg
-    background_image_position: center top
+    background_image_position: left top
     background_image_size: auto
     background_image_opacity: 60
   - type: grid_section
