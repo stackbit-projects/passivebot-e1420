@@ -40,7 +40,7 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: features_section
-    title: Why Choose Passivebot?
+    title: Why Use Passivebot?
     features:
       - title: All the Activity Data You Need to Improve Yourself
         content: >
