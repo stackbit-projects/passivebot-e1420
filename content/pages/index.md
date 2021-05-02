@@ -100,7 +100,7 @@ sections:
           to my non-programming friends about how they can earn passively with
           Passivebot out-of-the-box capability.”
         subtitle: 'Harminder Nijjar, Software Application Developer at Passivebot'
-        image: images/testimonials.png
+        image: images/SELF.JPG
         image_alt: Ursula Gurnmeister photo
         media_position: left
         media_width: thirty-three
