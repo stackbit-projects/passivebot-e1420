@@ -39,7 +39,8 @@
             }
         ],
         "has_anncmnt": false,
-        "logo_alt": "Passivebot logo"
+        "logo_alt": "Passivebot logo",
+        "anncmnt_is_home_only": true
     },
     "footer": {
         "logo": "images/parallel-turtle.png",
