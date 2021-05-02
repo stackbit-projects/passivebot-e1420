@@ -9,7 +9,7 @@
     "header": {
         "title": "Passivebot",
         "logo": "images/parallel-turtle.png",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
