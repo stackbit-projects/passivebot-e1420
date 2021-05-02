@@ -96,8 +96,9 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “I love how lightweight and easy it is to use. It intuitively builds
-          into my day-to-day rhythm, and the natural flow of my day.”
+          “I love how lightweight and easy it is to use. I'm comfortable talking
+          to my non-programming friends about how they can earn passively with
+          Passivebot out-of-the-box capability.”
         subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
         image: images/testimonials.png
         image_alt: Ursula Gurnmeister photo
