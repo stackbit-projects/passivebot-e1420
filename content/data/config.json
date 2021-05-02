@@ -40,7 +40,7 @@
         ],
         "has_anncmnt": false,
         "logo_alt": "Passivebot logo",
-        "anncmnt_is_home_only": true
+        "anncmnt_is_home_only": false
     },
     "footer": {
         "logo": "images/parallel-turtle.png",
