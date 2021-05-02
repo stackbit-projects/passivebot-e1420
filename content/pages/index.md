@@ -8,7 +8,7 @@ sections:
       - label: Start earning
         url: /pricing
         style: primary
-    image: images/hero.svg
+    image: images/chrome_xM30gEc3Ye-thumbnail.jpg
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
