@@ -1,5 +1,5 @@
 ---
-title: 'Passivebot : #1 '
+title: 'Passivebot : #1 Faucet Bot'
 sections:
   - type: hero_section
     title: Codeless Web Automation
