@@ -101,7 +101,7 @@ sections:
           because of it's out-of-the-box capability.”
         subtitle: 'Harminder Nijjar, Software Application Developer at Passivebot'
         image: images/SELF.JPG
-        image_alt: sH photo
+        image_alt: Harminder Nijjar photo
         media_position: left
         media_width: thirty-three
     feature_padding_vert: small
