@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Achieve your Goals!
+    title: Scale
     subtitle: 'Earn crypto, gift cards, and virtual currencies, passively.'
     actions:
       - label: Start earning
