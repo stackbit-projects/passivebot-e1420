@@ -9,7 +9,7 @@ sections:
         url: /pricing
         style: primary
     image: images/friendly-strawberry.png
-    image_alt: aP placeholder image
+    image_alt: Passivebot logo placeholder image
     media_position: bottom
     align: center
     padding_top: none
