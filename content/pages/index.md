@@ -12,7 +12,7 @@ sections:
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
-    padding_top: large
+    padding_top: none
     padding_bottom: small
     background_color: secondary
     background_image: images/Subtle-Prism.svg
