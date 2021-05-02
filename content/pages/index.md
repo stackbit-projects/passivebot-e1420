@@ -5,7 +5,7 @@ sections:
     title: Achieve your Goals!
     subtitle: 'Earn crypto, gift cards, and virtual currencies, passively.'
     actions:
-      - label: Try for free
+      - label: Start earning
         url: /pricing
         style: primary
     image: images/hero.svg
