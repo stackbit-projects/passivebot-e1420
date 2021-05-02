@@ -97,8 +97,8 @@ sections:
     features:
       - title: >-
           “I love how lightweight and easy it is to use. I'm comfortable talking
-          to my non-programming friends about how they can earn passively with
-          Passivebot out-of-the-box capability.”
+          to all my friends, and even strangers, about how they can earn
+          passively with Passivebot because of it's out-of-the-box capability.”
         subtitle: 'Harminder Nijjar, Software Application Developer at Passivebot'
         image: images/SELF.JPG
         image_alt: Ursula Gurnmeister photo
