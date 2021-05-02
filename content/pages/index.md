@@ -74,9 +74,11 @@ sections:
         media_position: left
         media_width: sixty
       - title: Optimize Your Maximum Daily Earnings
-        content: >-
-          With YourGoal you will be more productive and organized. Overcome
-          procrastination and achieve your goals.
+        content: >
+          Community-driven input on get-paid-to websites ensures that with
+          Passivebot you will be more productive and organized. Overcome
+          procrastinating researching for legit GPT sites and achieve your
+          goals.
         actions:
           - label: Learn More
             url: /thank-you
