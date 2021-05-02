@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Boost your online earnings with Passivebot!
+    title: "\U0001F44B Welcome to the future of web automation"
     subtitle: 'Earn crypto, gift cards, and virtual currencies, passively.'
     actions:
       - label: Start earning
