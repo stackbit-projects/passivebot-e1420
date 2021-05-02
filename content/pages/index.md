@@ -43,9 +43,9 @@ sections:
     title: Why Choose Passivebot?
     features:
       - title: All the Activity Data You Need to Improve Yourself
-        content: >-
-          With Your Goal, you can create a dashboard with data about your
-          activities and track your progress.
+        content: >
+          With Passivebot, you can scale online earnings with open-source web
+          automation and track your progress.
         actions:
           - label: Learn More
             url: /thank-you
