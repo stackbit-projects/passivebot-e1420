@@ -8,7 +8,7 @@ sections:
       - label: Start earning
         url: /pricing
         style: primary
-    image: images/chrome_Ao4rApZzz0-thumbnail.jpg
+    image: images/coin-chest-full.036fb26c.png
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
