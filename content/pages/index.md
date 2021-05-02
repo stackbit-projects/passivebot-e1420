@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: "\U0001F44B Welcome to the future of web automation"
+    title: Web Automation Made
     subtitle: 'Earn crypto, gift cards, and virtual currencies, passively.'
     actions:
       - label: Start earning
