@@ -29,7 +29,7 @@ sections:
         image_align: center
       - image: images/basic-attention-token-bat-seeklogo.com.svg
         image_alt: Logo 2
-        image_align: center
+        image_align: left
       - image: images/logo-3.svg
         image_alt: Logo 3
         image_align: center
