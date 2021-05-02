@@ -1,5 +1,5 @@
 ---
-title: 'Passivebot : #1 World Faucet'
+title: 'Passivebot : #1 W'
 sections:
   - type: hero_section
     title: Codeless Web Automation
