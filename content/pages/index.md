@@ -24,7 +24,7 @@ sections:
     title: Featured On
     align: center
     grid_items:
-      - image: images/Basic attention logo spinning.gif
+      - image: images/BTC.png
         image_alt: Logo 1
         image_align: center
       - image: images/basic-attention-token-bat-seeklogo.com.svg
