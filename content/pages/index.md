@@ -24,7 +24,7 @@ sections:
     title: Featured On
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/BTC.svg
         image_alt: Logo 1
         image_align: center
       - image: images/logo-2.svg
